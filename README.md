@@ -36,9 +36,6 @@ python train.py --cfg './configs/T-IMGNET/glis_img_vitb16.py' --name 'glis_img_v
 
 All the arguments are explained in the `train.py` file. Final logs will be saved in the `logger_dir` folder.
 
-# Contact
-For any queries, please contact at [animeshgupta.thapar@gmail.com](mailto:animeshgupta.thapar@gmail.com)
-
 # Acknowledgements
 We would like to thank the authors of the following repositories for their code and ideas: 
 1. [big_transfer](https://github.com/google-research/big_transfer)
