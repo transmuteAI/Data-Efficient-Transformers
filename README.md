@@ -1,3 +1,4 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/data-efficient-training-of-cnns-and/image-classification-on-tiny-imagenet-1)](https://paperswithcode.com/sota/image-classification-on-tiny-imagenet-1?p=data-efficient-training-of-cnns-and)
 # Data-Efficient Training of CNNs and Transformers with Coresets: A Stability Perspective
 
 # Introduction
